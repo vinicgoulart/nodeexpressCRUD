@@ -12,4 +12,4 @@ To update one user, send a PUT request to > /user/id (must use JSON, userId not 
 
 To delete one user, send a DELETE request to > /user/id.
 
-Feedback is always appreciated
+Feedback is always appreciated.
