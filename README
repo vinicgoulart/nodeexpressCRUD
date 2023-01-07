@@ -1,0 +1,15 @@
+# NodeJS + Express CRUD
+This is a NodeJS + Express CRUD API. <br />
+
+## PATHs
+To get all users, send a GET request to > /user. <br />
+
+To get one user, send a GET request to > /user/id. <br />
+
+To create one user, send a POST request to > /createuser (must use JSON). <br />
+
+To update one user, send a PUT request to > /user/id (must use JSON, userId not required in the body request). <br />
+
+To delete one user, send a DELETE request to > /user/id. <br />
+
+## Feedback is always appreciated
